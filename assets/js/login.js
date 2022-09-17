@@ -1,4 +1,5 @@
 $(function () {
+    // localStorage.getItem('username')
     $('#link_reg').on('click', function () {
         $('.reg-box').show()
         $('.login-box').hide()
